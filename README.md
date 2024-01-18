@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayleybell
-- 👀 I’m interested in Formula 1, Data Analytics and Automation.
-- 🌱 I’m currently learning python and REST APIs.
+- 👀 I’m interested in Formula 1, Data Analytics and Automation with Python.
+- 🌱 I’m currently learning how to build and maintain homelab environments with docker.
 
 <!---
 bayleybell/bayleybell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
